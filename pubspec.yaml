@@ -12,7 +12,10 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  qr_code_scanner: ^0.7.0
+  flutter_barcode_scanner: 
+  permission_handler: 
+  carousel_slider:
+  http: 
 
 dev_dependencies:
   flutter_test:
